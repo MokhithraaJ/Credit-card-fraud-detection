@@ -1,1 +1,2 @@
 # Credit-card-fraud-detection
+This repository contains code, datasets, and documentation related to an internship project focused on detecting fraudulent credit card transactions. The project built a classification model to identify anomalies and flag fraudulent activities. The model was trained on a provided dataset containing transaction information and experimented with algorithms like Logistic Regression, Decision Trees, and Random Forests.  Further details, explanations, and results can be found in the included README file and related reports. #CodSOFT @CodSoft
